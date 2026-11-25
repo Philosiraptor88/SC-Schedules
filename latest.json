@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-25T12:23:05.637351+00:00",
+  "checked_at": "2026-11-25T12:38:05.641605+00:00",
   "commit": "6fb092a",
   "data_bytes": 9242760,
-  "data_fetched_at": "2026-11-25T12:08:05.646277+00:00",
-  "data_sha256": "3424289e0f434bc9e5046231e6fbb7358d8b32d566c29f0ac8180d083eb21087",
+  "data_fetched_at": "2026-11-25T12:38:05.641605+00:00",
+  "data_sha256": "5046fe065f121de32de27ddc89aba471f1ea8e869393ba64cc28510d752adae1",
   "sections": 2334,
   "term": [
     "202740"
